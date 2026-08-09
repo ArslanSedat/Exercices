@@ -1,3 +1,5 @@
+Sedat : This project is a summer homework from MachineLearnia on several topics.
+
 # Cahier de vacances Machine Learnia
 
 Bienvenue dans le cahier de vacances Machine Learnia !
